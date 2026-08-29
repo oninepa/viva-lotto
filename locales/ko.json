@@ -1,0 +1,29 @@
+{
+  "brand": "Boule d'Or",
+  "tagline": "프랑스 복권, 쉽게 설명해드려요",
+  "nav": {
+    "info": "복권정보",
+    "analysis": "복권분석",
+    "numbers": "추천번호",
+    "blog": "블로그/기사",
+    "settings": "설정"
+  },
+  "hero": {
+    "eyebrow": "다음 유로밀리언 추첨",
+    "cta": "전체 복권 보기"
+  },
+  "settings": {
+    "language": "언어",
+    "country": "국가",
+    "darkmode": "다크모드"
+  },
+  "blog": {
+    "empty_title": "첫 글이 곧 올라옵니다",
+    "empty_body": "복권 관련 뉴스와 비교 콘텐츠가 정기적으로 업데이트될 예정입니다."
+  },
+  "numbers": {
+    "title": "재미로 보는 번호 생성기",
+    "disclaimer": "순수 재미용입니다 — 실제 당첨 확률과는 무관합니다.",
+    "generate": "번호 생성"
+  }
+}

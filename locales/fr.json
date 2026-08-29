@@ -1,0 +1,29 @@
+{
+  "brand": "Boule d'Or",
+  "tagline": "Les loteries françaises expliquées simplement",
+  "nav": {
+    "info": "Infos loterie",
+    "analysis": "Analyses",
+    "numbers": "Mes numéros",
+    "blog": "Actus & Blog",
+    "settings": "Réglages"
+  },
+  "hero": {
+    "eyebrow": "Prochain tirage EuroMillions",
+    "cta": "Voir tous les jeux"
+  },
+  "settings": {
+    "language": "Langue",
+    "country": "Pays",
+    "darkmode": "Mode sombre"
+  },
+  "blog": {
+    "empty_title": "Les premiers articles arrivent bientôt",
+    "empty_body": "Actualités et comparatifs des loteries, mis à jour régulièrement."
+  },
+  "numbers": {
+    "title": "Générateur pour le plaisir",
+    "disclaimer": "Purement ludique — ne modifie pas vos chances réelles.",
+    "generate": "Générer"
+  }
+}

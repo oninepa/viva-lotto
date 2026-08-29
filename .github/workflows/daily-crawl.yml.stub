@@ -1,0 +1,24 @@
+# Phase 1에서 채울 자동 크롤링 워크플로우 자리입니다.
+# 지금은 뼈대만 있고 실제 크롤러 스크립트는 아직 없습니다 (scripts/crawl.py 등을 추가한 뒤 아래 job을 활성화하세요).
+#
+# name: daily-crawl
+# on:
+#   schedule:
+#     - cron: "0 21 * * *"   # 매일 저녁 9시(UTC) — 프랑스 로또 추첨 이후 시간대에 맞춰 조정
+#   workflow_dispatch: {}
+# jobs:
+#   crawl:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: actions/setup-python@v5
+#         with:
+#           python-version: "3.11"
+#       - run: pip install -r scripts/requirements.txt
+#       - run: python scripts/crawl.py
+#       - run: |
+#           git config user.name "lottery-bot"
+#           git config user.email "bot@users.noreply.github.com"
+#           git add data/ content/
+#           git diff --quiet && git diff --staged --quiet || git commit -m "chore: daily data update"
+#           git push

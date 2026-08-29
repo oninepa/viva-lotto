@@ -1,0 +1,29 @@
+{
+  "brand": "Boule d'Or",
+  "tagline": "French lotteries, explained simply",
+  "nav": {
+    "info": "Lottery Info",
+    "analysis": "Analysis",
+    "numbers": "My Numbers",
+    "blog": "News & Blog",
+    "settings": "Settings"
+  },
+  "hero": {
+    "eyebrow": "Next EuroMillions draw",
+    "cta": "See all games"
+  },
+  "settings": {
+    "language": "Language",
+    "country": "Country",
+    "darkmode": "Dark mode"
+  },
+  "blog": {
+    "empty_title": "First articles arriving soon",
+    "empty_body": "News and comparisons about lotteries, updated regularly."
+  },
+  "numbers": {
+    "title": "For-fun number picker",
+    "disclaimer": "Just for fun — does not change your real odds.",
+    "generate": "Generate"
+  }
+}

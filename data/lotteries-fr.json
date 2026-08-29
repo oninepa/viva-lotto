@@ -1,0 +1,92 @@
+[
+  {
+    "id": "euromillions",
+    "name": "EuroMillions",
+    "family": "Loterie européenne (9 pays)",
+    "price": "2,50 € / grille",
+    "draws": "Mardi et vendredi",
+    "jackpotMin": "17 000 000 €",
+    "jackpotMax": "250 000 000 €",
+    "tax": "Gains non imposés (100 % net)",
+    "note": "Un code My Million est offert automatiquement à chaque grille jouée en France.",
+    "score": {
+      "rtp": 6,
+      "odds": 3,
+      "netPayout": 10,
+      "bonus": 9,
+      "access": 9
+    }
+  },
+  {
+    "id": "loto",
+    "name": "Loto",
+    "family": "Loterie nationale française",
+    "price": "2,20 € / grille",
+    "draws": "Lundi, mercredi, samedi",
+    "jackpotMin": "2 000 000 €",
+    "jackpotMax": "Variable (Super Loto / Grand Loto)",
+    "tax": "Gains non imposés (100 % net)",
+    "note": "Éditions spéciales à date fixe (vendredi 13, Noël) avec cagnotte augmentée.",
+    "score": {
+      "rtp": 7,
+      "odds": 6,
+      "netPayout": 10,
+      "bonus": 6,
+      "access": 10
+    }
+  },
+  {
+    "id": "eurodreams",
+    "name": "EuroDreams",
+    "family": "Loterie européenne (8 pays)",
+    "price": "2,50 € / grille",
+    "draws": "Lundi et jeudi",
+    "jackpotMin": "20 000 €/mois pendant 30 ans",
+    "jackpotMax": "—",
+    "tax": "Gains non imposés (100 % net)",
+    "note": "Format rente : gains versés mensuellement plutôt qu'en capital.",
+    "score": {
+      "rtp": 6,
+      "odds": 5,
+      "netPayout": 10,
+      "bonus": 5,
+      "access": 8
+    }
+  },
+  {
+    "id": "keno",
+    "name": "Keno",
+    "family": "Loterie quotidienne française",
+    "price": "à partir de 1 € / grille",
+    "draws": "Tous les soirs",
+    "jackpotMin": "100 000 €/an à vie, ou 2 000 000 € en capital",
+    "jackpotMax": "—",
+    "tax": "Gains non imposés (100 % net)",
+    "note": "Choix entre rente à vie ou capital immédiat.",
+    "score": {
+      "rtp": 5,
+      "odds": 7,
+      "netPayout": 10,
+      "bonus": 4,
+      "access": 9
+    }
+  },
+  {
+    "id": "amigo",
+    "name": "Amigo",
+    "family": "Loterie de bureau de tabac",
+    "price": "environ 2 € / grille",
+    "draws": "Toutes les 5 minutes",
+    "jackpotMin": "Variable",
+    "jackpotMax": "—",
+    "tax": "Gains non imposés (100 % net)",
+    "note": "Tirage rapide sur écran, format arcade.",
+    "score": {
+      "rtp": 4,
+      "odds": 8,
+      "netPayout": 10,
+      "bonus": 3,
+      "access": 7
+    }
+  }
+]
